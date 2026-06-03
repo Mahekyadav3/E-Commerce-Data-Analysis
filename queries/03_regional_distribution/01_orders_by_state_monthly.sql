@@ -1,6 +1,6 @@
 -- ============================================================
 -- Query  : Customer Table Schema
--- Section: 01 - Exploratory Analysis
+-- Section: 03 - Regional Distribution
 -- Author : Mahek
 -- Tool   : Google BigQuery
 -- ============================================================
