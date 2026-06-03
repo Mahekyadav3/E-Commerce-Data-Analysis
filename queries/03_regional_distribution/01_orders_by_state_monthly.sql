@@ -1,3 +1,9 @@
+-- ============================================================
+-- Query  : Customer Table Schema
+-- Section: 01 - Exploratory Analysis
+-- Author : Mahek
+-- Tool   : Google BigQuery
+-- ============================================================
 select distinct c.customer_state,
 extract(month from o.order_purchase_timestamp ) as month,
 count(*) as no_of_orders
