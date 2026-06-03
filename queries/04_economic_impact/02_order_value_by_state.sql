@@ -1,6 +1,6 @@
 -- ============================================================
 -- Query  : Top 5 States by Average Freight Value
--- Section: 05 - Delivery & Freight Analysis
+-- Section: 04 - Economic Impact
 -- Author : Mahek
 -- Tool   : Google BigQuery
 -- ============================================================
